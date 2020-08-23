@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #F9F8F2;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#drum-machine{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 80%;
+  height: 100vh;
+  margin-left: 10%;
+  margin-right: 10%;
+  justify-content: center;
+  /* background-color: #CDB39A; */
+  background-color: white;
+  border-left: 1px solid gray;
+  border-right: 1px solid gray;
+  box-shadow: 2px 0 3.5px gray, -2px 0 3.5px gray;
+}
+
+.drumpad{
+  display: flex;
+  width: 10%;
+  height: 15%;
+  /* background-color:#4FED7D ;
+  border: 1px solid #0350F3; */
+  background-color: white;
+  box-shadow: -1.5px 1.5px 1.5px gray, .25px -.25px gray;
+  border-radius: 5px;
+  margin-left: 10%;
+  margin-right: 10%;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: .5%;
+  margin-bottom: 1%;
+}
+
+.active{
+  transition: all 0.2s ease-in-out;
+  display: flex;
+  background-color:#F9F8F2 ;
+  border: 1.5px solid #4FED7D;
+  box-shadow: 0 0 3.5px 5px #4FED7D;
+  color: white;
+  text-shadow: -2px 0 #4FED7D, 0 2px #4FED7D, 2px 0 #4FED7D, 0 -2px #4FED7D;
+  border-radius: 10px;
+  margin-left: 10%;
+  margin-right: 10%;
+  justify-content: center;
+}
+.displayText{
+  display: flex;
+  width: 30%;
+  height: 10%;
+  color:#4FED7D;
+  text-shadow: -2px 0 #354050, 0 2px #354050, 2px 0 #354050, 0 -2px #354050;
+  background-color: white;
+  justify-content: center;
+  font-size: 250%;
+  font-family: 'Press Start 2P', cursive;
+  text-transform: uppercase;
+  padding-top: 2%;
+  
+}
+
