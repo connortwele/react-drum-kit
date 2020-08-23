@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-drum-kit/static/css/main.57f9f768.chunk.css",
+    "main.js": "/react-drum-kit/static/js/main.a5f740e8.chunk.js",
+    "main.js.map": "/react-drum-kit/static/js/main.a5f740e8.chunk.js.map",
+    "runtime-main.js": "/react-drum-kit/static/js/runtime-main.74add1fd.js",
+    "runtime-main.js.map": "/react-drum-kit/static/js/runtime-main.74add1fd.js.map",
+    "static/js/2.c3be3493.chunk.js": "/react-drum-kit/static/js/2.c3be3493.chunk.js",
+    "static/js/2.c3be3493.chunk.js.map": "/react-drum-kit/static/js/2.c3be3493.chunk.js.map",
+    "index.html": "/react-drum-kit/index.html",
+    "precache-manifest.1c3f5323ab8c3ed6b423d8a398fc85e2.js": "/react-drum-kit/precache-manifest.1c3f5323ab8c3ed6b423d8a398fc85e2.js",
+    "service-worker.js": "/react-drum-kit/service-worker.js",
+    "static/css/main.57f9f768.chunk.css.map": "/react-drum-kit/static/css/main.57f9f768.chunk.css.map",
+    "static/js/2.c3be3493.chunk.js.LICENSE.txt": "/react-drum-kit/static/js/2.c3be3493.chunk.js.LICENSE.txt",
+    "static/media/sound1.mp3": "/react-drum-kit/static/media/sound1.52f8783d.mp3",
+    "static/media/sound2.mp3": "/react-drum-kit/static/media/sound2.b8d7845c.mp3",
+    "static/media/sound3.mp3": "/react-drum-kit/static/media/sound3.ddbed052.mp3",
+    "static/media/sound4.mp3": "/react-drum-kit/static/media/sound4.6be0017e.mp3",
+    "static/media/sound5.mp3": "/react-drum-kit/static/media/sound5.11c7389f.mp3",
+    "static/media/sound6.mp3": "/react-drum-kit/static/media/sound6.82d21bfa.mp3",
+    "static/media/sound7.mp3": "/react-drum-kit/static/media/sound7.375ae37d.mp3",
+    "static/media/sound8.mp3": "/react-drum-kit/static/media/sound8.3ca260e2.mp3",
+    "static/media/sound9.mp3": "/react-drum-kit/static/media/sound9.f3af4296.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74add1fd.js",
+    "static/js/2.c3be3493.chunk.js",
+    "static/css/main.57f9f768.chunk.css",
+    "static/js/main.a5f740e8.chunk.js"
+  ]
+}
